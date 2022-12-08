@@ -1,0 +1,10 @@
+comandos de git 
+
+* git remote add origin url => cuando quiero agregar un repo local al remoto.
+Tengo que crear primero un repo remoto en github 
+
+* git branch => me indica en que rama estoy actualmente. 
+
+* git add. => añade todos los archivos untracked 
+
+* 
